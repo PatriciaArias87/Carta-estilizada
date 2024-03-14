@@ -1,0 +1,131 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+    
+    .writing-mode{
+
+        writing-mode: vertical-rl; 
+        float: right;
+        margin-right: -60px;
+        text-decoration: underline;
+        /*backgroun: blue;*/
+
+
+    }
+    h1{
+       text-align: center;
+        background-color: lightgrey;
+
+        
+    }
+
+    .miss{
+        hyphens: auto;
+
+    }
+
+
+
+    body {
+        margin-left: 350px;
+        margin-right: 350px;
+        word-wrap: break-word;
+        
+
+     }
+    #universidad {
+        text-align: right;    
+       
+    }
+     
+    .eleanor {
+     color: darkblue;
+
+     font-size: 20px;
+    }
+
+
+    #lista-desordenada {
+        margin-left: 50px;
+ 
+
+    } 
+
+    #lista-ordenada {
+        margin-left: 50px;
+
+    }
+   
+
+    sub{
+        vertical-align: sub;
+
+    }
+
+    sup{
+
+        vertical-align: super;
+    }
+
+
+    .little {
+        margin-left: 50px;
+
+
+        
+
+    }
+
+
+
+    .p2 {
+        margin-left: 50px;
+     
+
+
+    }
+     .before {
+        margin-left: 50px;
+
+    
+    }
+
+
+    .eleanor2 {
+        line-height: 4;
+ 
+      }
+   
+
+     q {
+      quotes:"";
+
+     }
+     
+     
+     
+     .sacramento-regular {
+
+        font-family: "Sacramento", cursive; 
+        font-weight: 300;
+        font-style: normal;
+        font-size: 22px;
+      }
+          
+       
+      
+
+
+    .foot {
+       
+        text-align: center;
+        text-decoration: underline overline;
+        font-weight: bold;
+        word-spacing: 7px;
+
+
+    }
